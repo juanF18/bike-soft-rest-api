@@ -1,0 +1,4 @@
+# Archivo tempora que se crea con el comando air init
+./tmp
+# Variables de entorno
+.env
